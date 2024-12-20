@@ -1,0 +1,28 @@
+{
+  "name": "frazaxia",
+  "version": "1.0.0",
+  "description": "Bot Frazaxia crée par Frazèque",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Frazeque1"
+  ],
+  "author": "Frazèque",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.9.0",
+    "@discordjs/rest": "^2.4.0",
+    "discord.js": "^14.16.3",
+    "fs": "^0.0.1-security",
+    "map": "^1.0.1",
+    "moment": "^2.30.1",
+    "ms": "^2.1.3",
+    "mysql": "^2.18.1",
+    "node-fetch": "^2.7.0",
+    "os": "^0.1.2",
+    "rebuild": "^0.1.2",
+    "rest": "^2.0.0"
+  }
+}
